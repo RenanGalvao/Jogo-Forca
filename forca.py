@@ -14,7 +14,7 @@ messages = {
   'WELCOME': 'Olá, %s! Seja bem-vindo(a) ao jogo da Forca! 😁',
   'HINT': 'Sua palavra tem %d letras! 💡',
   'HINT_MISTAKEN': 'Você só pode errar %d vezes antes de acertar a palavra! 🚨',
-  'PRESS_TO_CONTINUE': 'Pressione qualquer tecla para continuar... ',
+  'PRESS_TO_CONTINUE': 'Pressione Enter para continuar... ',
   'CHOOSE_LETTER': '👉 Escolha uma letra: ',
   'CORRECT_LETTER': 'Woow! Essa letra existe na sua palavra! 🙌',
   'WRONG_LETTER': 'Essa letra não existe na sua palavra. ❌',
